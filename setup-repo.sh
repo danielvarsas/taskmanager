@@ -7,7 +7,7 @@
 
 set -e
 
-GITHUB_USER=${1:-"danielvarsass"}
+GITHUB_USER=${1:-"danielvarsas"}
 REPO_NAME=${2:-"taskmanager"}
 
 echo "=== Task Manager – repo init ==="
